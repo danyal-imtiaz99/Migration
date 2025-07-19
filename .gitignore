@@ -1,0 +1,18 @@
+# .NET specific
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# IDE files
+.idea/
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
